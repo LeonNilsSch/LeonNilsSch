@@ -22,11 +22,13 @@
 - At the moment I try to learn more about Web Development and Infrastructure
 - besides I like to Graphic Design a lot
 
-<br><br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonnilssch&label=Profile%20views&color=0e75b6&style=flat" alt="leonnilssch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonnilssch" alt="leonnilssch" /></a> </p>
+
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
