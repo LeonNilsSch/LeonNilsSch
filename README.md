@@ -1,6 +1,6 @@
 [![header][header-url]][header-link]
 
-# Project Name
+# Leon Schwinkendorf
 [![Project Version][version-image]][version-url]
 [![Frontend][Frontend-image]][Frontend-url]
 [![Backend][Backend-image]][Backend-url]
