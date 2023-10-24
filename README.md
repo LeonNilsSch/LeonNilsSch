@@ -24,12 +24,10 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<h1 align="center">Hi 👋, I'm Leon Nils Schwinkendorf</h1>
+<h3 align="center">A passionate Computer Science Trainee</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonnilssch" alt="leonnilssch" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/binhaltlelon" target="blank"><img src="https://img.shields.io/twitter/follow/binhaltlelon?logo=twitter&style=for-the-badge" alt="binhaltlelon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,5 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonnilssch&show_icons=true&locale=en" alt="leonnilssch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonnilssch&" alt="leonnilssch" /></p>
-
 
