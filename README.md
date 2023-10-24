@@ -20,6 +20,7 @@
 - Playing Basketball at spare time
 - Currently learning at Fielmann Group AG
 - At the moment I try to learn more about Web Development and Infrastructure
+- besides I like to Graphic Design a lot
 
 <br><br>
 
