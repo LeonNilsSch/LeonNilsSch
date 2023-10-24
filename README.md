@@ -23,6 +23,11 @@
 - besides I like to Graphic Design a lot
 
 <br><br>
+<h1 align="center">Hi 👋, I'm Leon Nils Schwinkendorf</h1>
+<h3 align="center">A passionate Computer Science Trainee</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonnilssch&label=Profile%20views&color=0e75b6&style=flat" alt="leonnilssch" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonnilssch" alt="leonnilssch" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
