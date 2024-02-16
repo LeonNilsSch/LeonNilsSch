@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://twitter.com/binhaltlelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binhaltlelon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leon nils schwinkendorf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon nils schwinkendorf" height="30" width="40" /></a>
-<a href="https://instagram.com/binhaltlelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binhaltlelon" height="30" width="40" /></a>
+<a href="https://instagram.com/binhaltleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binhaltlelon" height="30" width="40" /></a>
 </p>
 
 <br><br>
