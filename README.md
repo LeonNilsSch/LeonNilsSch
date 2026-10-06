@@ -1,53 +1,84 @@
-<h1 align="center"><b>🔵 Hi, I'm Leon 🔵</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<!-- Header -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Trainee,;Basketball+Point+Guard,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b2a43,100:1e6fd9&height=220&section=header&text=Leon%20Schwinkendorf&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20%C2%B7%20Cloud%20%C2%B7%20AI&descAlignY=64&descSize=20&animation=fadeIn" alt="Leon Schwinkendorf" />
 </p>
 
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/leonnilssch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=1E6FD9&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Leon+%F0%9F%91%8B;IT+Specialist+in+training+%E2%80%93+Hamburg;I+build+fullstack+apps+with+React+%26+Next.js;I+run+them+in+the+cloud+with+AWS+%26+Terraform;I+add+AI+features+that+actually+get+used;Basketball+point+guard+off+the+keyboard+%F0%9F%8F%80" alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Hamburg-0b2a43?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hamburg" />
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20roles-1e6fd9?style=for-the-badge" alt="Open to junior roles" />
+  <img src="https://img.shields.io/badge/Apprenticeship%20ends-01%2F2027-0b2a43?style=for-the-badge" alt="Apprenticeship ends 01/2027" />
+</p>
 
 <br>
 
+## 👨‍💻 About me
 
-
-	
-## **About me**
-
-
+```ts
+const leon = {
+  role: "Fachinformatiker für Systemintegration (in training)",
+  location: "Hamburg, Germany",
+  focus: ["Fullstack Web", "Cloud & IaC", "AI features"],
+  stack: ["TypeScript", "React", "Next.js", "Python", "AWS", "Terraform", "Ansible"],
+  mindset: "pragmatic, structured, reliable",
+  offTheKeyboard: ["Basketball 🏀", "Hardware tinkering", "Graphic design"],
+  currentlyLearning: "Building and running software end-to-end",
+  openTo: "Junior roles in development & DevOps",
+};
+```
 
 <br>
 
-- A passionate Computer Science Trainee
-- Playing Basketball at spare time
-- Currently learning at Fielmann Group AG
-- At the moment I try to learn more about Web Development and Infrastructure
-- besides I like to Graphic Design a lot
+## 🛠️ Tech stack
 
-<br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonnilssch&label=Profile%20views&color=0e75b6&style=flat" alt="leonnilssch" /> </p>
-
-<p align="left"> <img alig src="https://github-profile-trophy.vercel.app/?username=LeonNilsSch&&theme=onedark&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" /> </p>
-
-<br><br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/binhaltlelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binhaltlelon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leon nils schwinkendorf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon nils schwinkendorf" height="30" width="40" /></a>
-<a href="https://instagram.com/binhaltleon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binhaltlelon" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,html,css&theme=dark" alt="Web and development" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,git,github,linux&theme=dark" alt="Cloud and DevOps" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Design" />
 </p>
 
-<br><br>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📊 GitHub stats
 
-<br><br>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonnilssch&show_icons=true&hide_border=true&bg_color=0b2a43&title_color=1e6fd9&icon_color=1e6fd9&text_color=ffffff&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonnilssch&layout=compact&hide_border=true&bg_color=0b2a43&title_color=1e6fd9&text_color=ffffff" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leonnilssch&hide_border=true&background=0b2a43&ring=1e6fd9&fire=1e6fd9&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9fb4c9" alt="Streak stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonnilssch&show_icons=true&locale=en&layout=compact" alt="leonnilssch" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leonnilssch&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonnilssch&show_icons=true&locale=en" alt="leonnilssch" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonnilssch&" alt="leonnilssch" /></p>
+## 📈 Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonnilssch&bg_color=0b2a43&color=ffffff&line=1e6fd9&point=ffffff&area=true&area_color=1e6fd9&hide_border=true" alt="Contribution graph" />
+</p>
+
+<br>
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/DEIN-LINKEDIN-NAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b2a43?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ln.schwinkendorf@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20me-1e6fd9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2a43,100:1e6fd9&height=100&section=footer" alt="" />
+</p>
