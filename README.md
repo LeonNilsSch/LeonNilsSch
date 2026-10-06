@@ -54,16 +54,12 @@ I'm in my final year of training as an **IT specialist for system integration** 
   <img src="https://streak-stats.demolab.com?user=leonnilssch&hide_border=true&background=0b2a43&ring=1e6fd9&fire=1e6fd9&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9fb4c9" alt="Streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonnilssch&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
 <br>
 
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonnilssch&bg_color=0b2a43&color=ffffff&line=1e6fd9&point=ffffff&area=true&area_color=1e6fd9&hide_border=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/1e6fd9/leonnilssch" alt="Contribution graph" width="90%" />
 </p>
 
 <br>
