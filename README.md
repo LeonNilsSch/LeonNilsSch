@@ -20,18 +20,14 @@
 
 ## 👨‍💻 About me
 
-```ts
-const leon = {
-  role: "Fachinformatiker für Systemintegration (in training)",
-  location: "Hamburg, Germany",
-  focus: ["Fullstack Web", "Cloud & IaC", "AI features"],
-  stack: ["TypeScript", "React", "Next.js", "Python", "AWS", "Terraform", "Ansible"],
-  mindset: "pragmatic, structured, reliable",
-  offTheKeyboard: ["Basketball 🏀", "Hardware tinkering", "Graphic design"],
-  currentlyLearning: "Building and running software end-to-end",
-  openTo: "Junior roles in development & DevOps",
-};
-```
+I'm in my final year of training as an **IT specialist for system integration** in Hamburg. I like working on both sides of software: **building** web applications and **running** them reliably in the cloud.
+
+- 🌐 Fullstack web apps with **React, Next.js and TypeScript**
+- ☁️ Cloud and Infrastructure as Code with **AWS, Terraform and Ansible**
+- 🤖 **AI features** like chatbots, built into real applications
+- 🔧 Pragmatic, structured and reliable
+- 🏀 Off the keyboard: basketball point guard, hardware tinkerer and graphic design fan
+- 🎯 Open to **junior roles in development and DevOps**
 
 <br>
 
