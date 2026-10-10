@@ -34,23 +34,23 @@ const fetch = [
   ['Offline', 'basketball (PG) · hardware · design'],
 ];
 
-// level: 3 = daily, 2 = confident, 1 = learning
+// level: 3 = pro (bewusst frei), 2 = comfortable, 1 = learning
 const stack = [
-  ['TypeScript', 'siTypescript', 3, 'build'],
-  ['JavaScript', 'siJavascript', 3, 'build'],
-  ['React', 'siReact', 3, 'build'],
-  ['Next.js', 'siNextdotjs', 2, 'build'],
-  ['Node.js', 'siNodedotjs', 2, 'build'],
-  ['Python', 'siPython', 2, 'build'],
-  ['Tailwind', 'siTailwindcss', 2, 'build'],
-  ['Figma', 'siFigma', 2, 'design'],
-  ['AWS', 'siAmazonwebservices', 2, 'run'],
-  ['Terraform', 'siTerraform', 2, 'run'],
-  ['Ansible', 'siAnsible', 2, 'run'],
-  ['Docker', 'siDocker', 3, 'run'],
-  ['Linux', 'siLinux', 3, 'run'],
-  ['Git', 'siGit', 3, 'tools'],
-  ['GitHub', 'siGithub', 3, 'tools'],
+  ['TypeScript', 'siTypescript', 2, 'build'],
+  ['JavaScript', 'siJavascript', 2, 'build'],
+  ['React', 'siReact', 2, 'build'],
+  ['Next.js', 'siNextdotjs', 1, 'build'],
+  ['Node.js', 'siNodedotjs', 1, 'build'],
+  ['Python', 'siPython', 1, 'build'],
+  ['Tailwind', 'siTailwindcss', 1, 'build'],
+  ['Figma', 'siFigma', 1, 'design'],
+  ['AWS', 'siAmazonwebservices', 1, 'run'],
+  ['Terraform', 'siTerraform', 1, 'run'],
+  ['Ansible', 'siAnsible', 1, 'run'],
+  ['Docker', 'siDocker', 2, 'run'],
+  ['Linux', 'siLinux', 2, 'run'],
+  ['Git', 'siGit', 2, 'tools'],
+  ['GitHub', 'siGithub', 2, 'tools'],
   ['LLM APIs', null, 1, 'ai'],
 ];
 
@@ -284,8 +284,8 @@ function stackSvg() {
     </g>`;
   }).join('');
 
-  const legend = [['daily', 3], ['confident', 2], ['learning', 1]].map(([t, n], i) => {
-    const x = W - 470 + i * 148;
+  const legend = [['pro', 3], ['comfortable', 2], ['learning', 1]].map(([t, n], i) => {
+    const x = W - 500 + i * 168;
     return `${meter(x, 34, n)}<text class="m up" x="${x + 50}" y="40" font-size="10" fill="${c.dim}">${t}</text>`;
   }).join('');
 
