@@ -1,0 +1,13 @@
+{
+  "name": "github-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "5.3.0",
+    "@fontsource-variable/jetbrains-mono": "5.3.0",
+    "simple-icons": "^13.21.0"
+  }
+}
